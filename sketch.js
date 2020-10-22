@@ -26,7 +26,7 @@ function setup() {
   line4 = new Line(1125,630,235,10);
   ground = new Ground(750,630,1600,200);
   ground2 = new Ground2(750,690,1600,70);
-  uni1 = new uni(1125,550,235,150);
+  uni1 = new uni(1125,555,235,125);
 }
 
 
